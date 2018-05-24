@@ -1,4 +1,4 @@
-# Topluluk-Listesi
+# Topluluk Listesi
 Türkiye'de bulunan bilişim topluluklarının ayrıntılı listesi
 
 NOT: Siz de topluluğunuzu ekleyebilirsiniz
