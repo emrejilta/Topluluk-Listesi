@@ -14,3 +14,9 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | BİLTEK  | [Çanakkale Onsekiz Mart Üniversitesi](http://comu.edu.tr)  |[comubiltek.com](http://comubiltek.com/)  | [comubiltek](https://twitter.com/comubiltek/) |
 | Selçuk Bilişim  | [Selçuk Üniversitesi](http://selcuk.edu.tr)  |[selcukbilisim.org](http://selcukbilisim.org/)  | [SUBilisim](http://twitter.com/SUBilisim/) |
 | Harran Bilişim  | [Harran Üniversitesi](http://harran.edu.tr)  |[harranbilisim.com](https://harranbilisim.com/)  | [HarranBilisimT](https://twitter.com/HarranBilisimT/) |
+| Bilgisayar Kulübü  | [İstanbul Üniversitesi](http://istanbul.edu.tr)  |[iubk.org](https://iubk.org/)  | [iubkorg](https://twitter.com/iubkorg/) |
+| Bilişim Kulübü  | [Boğaziçi Üniversitesi](http://boun.edu.tr)  |[compec.boun.edu.tr](http://compec.boun.edu.tr/site/)  | [compec](https://twitter.com/compec/) |
+| Bilgisayar Topluluğu  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[cs.ankara.edu.tr](http://cs.ankara.edu.tr/)  | [societycomputer](http://www.twitter.com/societycomputer/) |
+| YAZGİT  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[yazgig.org](http://yazgig.org/)  | [yazgigconf](https://twitter.com/yazgigconf) |
+| AUCC  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[aucyberclub.org](https://www.aucyberclub.org)  | [aucc](https://twitter.com/_aucc) | [aucyberclub](https://github.com/aucyberclub)
+| Özgür Yazılım Kulübü  | [İstanbul Bilgi Üniversitesi](http://bilgi.edu.tr)  |[ozguryazilim.bilgi.edu.tr](https://ozguryazilim.bilgi.edu.tr)  | [BilgiGNU](https://twitter.com/BilgiGNU) | [aucyberclub](https://github.com/aucyberclub)
