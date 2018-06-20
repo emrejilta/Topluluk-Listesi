@@ -19,4 +19,4 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | Bilgisayar Topluluğu  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[cs.ankara.edu.tr](http://cs.ankara.edu.tr/)  | [societycomputer](http://www.twitter.com/societycomputer/) |
 | YAZGİT  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[yazgig.org](http://yazgig.org/)  | [yazgigconf](https://twitter.com/yazgigconf) |
 | AUCC  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[aucyberclub.org](https://www.aucyberclub.org)  | [aucc](https://twitter.com/_aucc) | [aucyberclub](https://github.com/aucyberclub)
-| Özgür Yazılım Kulübü  | [İstanbul Bilgi Üniversitesi](http://bilgi.edu.tr)  |[ozguryazilim.bilgi.edu.tr](https://ozguryazilim.bilgi.edu.tr)  | [BilgiGNU](https://twitter.com/BilgiGNU) | [aucyberclub](https://github.com/aucyberclub)
+| Özgür Yazılım Kulübü  | [İstanbul Bilgi Üniversitesi](http://bilgi.edu.tr)  |[ozguryazilim.bilgi.edu.tr](https://ozguryazilim.bilgi.edu.tr)  | [BilgiGNU](https://twitter.com/BilgiGNU) | 
