@@ -20,3 +20,7 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | YAZGİT  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[yazgig.org](http://yazgig.org/)  | [yazgigconf](https://twitter.com/yazgigconf) |
 | AUCC  | [Ankara Üniversitesi](http://ankara.edu.tr)  |[aucyberclub.org](https://www.aucyberclub.org)  | [aucc](https://twitter.com/_aucc) | [aucyberclub](https://github.com/aucyberclub)
 | Özgür Yazılım Kulübü  | [İstanbul Bilgi Üniversitesi](http://bilgi.edu.tr)  |[ozguryazilim.bilgi.edu.tr](https://ozguryazilim.bilgi.edu.tr)  | [BilgiGNU](https://twitter.com/BilgiGNU) | 
+| CClub  | [ODTÜ](http://metu.edu.tr)  |[cclub.metu.edu.tr](http://cclub.metu.edu.tr)  | [metucclub](https://twitter.com/metucclub) | 
+| Bilişim Kulübü  | [İTÜ](http://itu.edu.tr)  |  | [bilisimitu](https://twitter.com/bilisimitu) | 
+| İTÜ GNU  | [İTÜ](http://itu.edu.tr)  |[itugnu.org](https://itugnu.org/)  | [ituoy](https://twitter.com/ituoy) | [itugnu](https://github.com/itugnu)
+| Bilişim Kulübü | [YTÜ](http://yildiz.edu.tr) | [bilisim.yildiz.edu.tr](https://bilisim.yildiz.edu.tr) | 
