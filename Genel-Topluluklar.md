@@ -7,7 +7,7 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | ------------- |:-------------:| -------------|----------------------|
 | İstanbul PHP  | [phpkonf.org](http://phpkonf.org)  | [istanbulphp](http://twitter.com/istanbulphp) | [istanbulphp](http://github.com/istanbulphp)
 | Ankara PHP    | [ankaraphp.github.io](http://ankaraphp.github.io/) |[ankaraphp](http://twitter.com/ankaraphp)|[ankaraphp](http://github.com/ankaraphp)
-| Edirne PHP    | [edirnephp.org](http://edirnephp.org) |[edirne_php](http://twitter.com/edirne_php) | [EdirnePHP](http://github.com/EdirnePHP)
+| Edirne PHP    | [edirnephp.org](http://edirnephp.github.io) |[edirne_php](http://twitter.com/edirne_php) | [EdirnePHP](http://github.com/EdirnePHP)
 |Laravel İstanbul|[laravel.istanbul](http://laravel.istanbul)|[laravelistanbul](http://twitter.com/laravelistanbul)|[laravelistanbul](https://github.com/laravelistanbul)|
 |NS İstanbul|[nsistanbul.com](http://nsistanbul.com)|[NS_Istanbul](http://twitter.com/NS_Istanbul)|[NSIstanbul](https://github.com/NSIstanbul)|
 |Front-End İstanbul|[frontend.istanbul](http://frontend.istanbul)|[feistanbul](http://twitter.com/feistanbul)|[frontendistanbul](https://github.com/frontendistanbul)|
