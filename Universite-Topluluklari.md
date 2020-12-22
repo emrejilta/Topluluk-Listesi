@@ -28,3 +28,4 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | Bilişim ve Teknoloji Kulübü | [FSMVÜ](http://www.fatihsultan.edu.tr) | [weekeng.com](http://weekeng.com) | [fsmbilisim](https://twitter.com/fsmbilisim)
 | ACM Hacettepe | [Hacettepe Üniversitesi](https://www.hacettepe.edu.tr/) | [ACMH](https://acmhacettepe.com/) | [acmhacettepe](https://twitter.com/acmhacettepe)
 | Creatiny | [KTÜ](https://www.ktu.edu.tr/) | [Creatiny](http://creatiny.com/) | [creatinyktu](https://twitter.com/creatinyktu)
+| Veri Bilimi YTÜ | [YTÜ](http://yildiz.edu.tr) |  | [veribilimiytu](https://twitter.com/veribilimiytu)
