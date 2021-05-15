@@ -30,3 +30,4 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | Creatiny | [KTÜ](https://www.ktu.edu.tr/) | [Creatiny](http://creatiny.com/) | [creatinyktu](https://twitter.com/creatinyktu)
 | Veri Bilimi YTÜ | [YTÜ](http://yildiz.edu.tr) |  | [veribilimiytu](https://twitter.com/veribilimiytu)
 | Bilgisayar Topluluğu | [GTÜ](https://www.gtu.edu.tr/) | [geekday.live](https://geekday.live/) | [gtubt](https://twitter.com/gtubt)
+| Bilişim Topluluğu | [NEÜ](https://www.erbakan.edu.tr/) |  | [neubilisim](https://twitter.com/neubilisim)
