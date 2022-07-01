@@ -31,3 +31,5 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 | Veri Bilimi YTÜ | [YTÜ](http://yildiz.edu.tr) |  | [veribilimiytu](https://twitter.com/veribilimiytu)
 | Bilgisayar Topluluğu | [GTÜ](https://www.gtu.edu.tr/) | [geekday.live](https://geekday.live/) | [gtubt](https://twitter.com/gtubt)
 | Bilişim Topluluğu | [NEÜ](https://www.erbakan.edu.tr/) |  | [neubilisim](https://twitter.com/neubilisim)
+| ERU Med AI Team | [EÜ](https://www.erciyes.edu.tr/) |  | [erumedaiteam](https://twitter.com/erumedaiteam)
+
