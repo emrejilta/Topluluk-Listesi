@@ -30,4 +30,9 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 |Mobile Growth Istanbul|[mobilegrowth.ist](https://mobilegrowth.ist/)|[mobilegrowthist](https://twitter.com/mobilegrowthist)
 |Altair Cyber|[altaircyber.club](https://altaircyber.club/)|[altaircyber](https://twitter.com/altaircyber)
 |Agile Software Development Turkey|[agilesoftwaredevelopmentturkey](https://www.linkedin.com/in/agilesoftwaredevelopmentturkey/)|
-|Vue Türkiye||[Vue Türkiye](http://twitter.com/Vue_Turkey)
+|Vue Türkiye||[Vue Türkiye](http://twitter.com/Vue_Turkey)|
+|Flutter Türkiye||[Flutter Türkiye](http://twitter.com/Flutter_Turkiye)||
+|Komünite|[komunite.com.tr](http://komunite.com.tr)|[Komünite](http://twitter.com/komunitecomtr)||
+|Mobil Geliştiriciler||[mobilgelistir](http://twitter.com/mobilgelistir)||
+|Sıfırlar Birler|[Sıfırlar Birler](http://kommunity.com/sifirlar-birler)|[sifirlar0birler](http://twitter.com/sifirlar0birler)||
+|Developer MultiGroup|[Developer MultiGroup](http://kommunity.com/devmultigroup)|[devmultigroup](http://twitter.com/devmultigroup)||
