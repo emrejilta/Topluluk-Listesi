@@ -30,9 +30,13 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 |Mobile Growth Istanbul|[mobilegrowth.ist](https://mobilegrowth.ist/)|[mobilegrowthist](https://twitter.com/mobilegrowthist)
 |Altair Cyber|[altaircyber.club](https://altaircyber.club/)|[altaircyber](https://twitter.com/altaircyber)
 |Agile Software Development Turkey|[agilesoftwaredevelopmentturkey](https://www.linkedin.com/in/agilesoftwaredevelopmentturkey/)|
-|Vue Türkiye||[Vue Türkiye](http://twitter.com/Vue_Turkey)|
-|Flutter Türkiye||[Flutter Türkiye](http://twitter.com/Flutter_Turkiye)||
-|Komünite|[komunite.com.tr](http://komunite.com.tr)|[Komünite](http://twitter.com/komunitecomtr)||
-|Mobil Geliştiriciler||[mobilgelistir](http://twitter.com/mobilgelistir)||
-|Sıfırlar Birler|[Sıfırlar Birler](http://kommunity.com/sifirlar-birler)|[sifirlar0birler](http://twitter.com/sifirlar0birler)||
-|Developer MultiGroup|[Developer MultiGroup](http://kommunity.com/devmultigroup)|[devmultigroup](http://twitter.com/devmultigroup)||
+|Vue Türkiye||[Vue Türkiye](https://twitter.com/Vue_Turkey)|
+|Flutter Türkiye||[Flutter Türkiye](https://twitter.com/Flutter_Turkiye)||
+|Komünite|[komunite.com.tr](http://komunite.com.tr)|[Komünite](https://twitter.com/komunitecomtr)||
+|Mobil Geliştiriciler||[mobilgelistir](https://twitter.com/mobilgelistir)||
+|Sıfırlar Birler|[Sıfırlar Birler](http://kommunity.com/sifirlar-birler)|[sifirlar0birler](https://twitter.com/sifirlar0birler)||
+|Developer MultiGroup|[Developer MultiGroup](http://kommunity.com/devmultigroup)|[devmultigroup](https://twitter.com/devmultigroup)||
+|Bursa Bilişim Topluluğu|[Bursa Bilişim Topluluğu](https://linktr.ee/bursabilisimtoplulugu)|[bilisim_bursa](https://twitter.com/bilisim_bursa)||
+|Angular Turkey|[Angular Turkey](http://ngturkey.org)|[ngTurkiye](https://twitter.com/ngTurkiye)||
+|JavaScript Sessions Ankara|[JavaScript Sessions Ankara](https://kommunity.com/javascript-sessions/)|[JavaScriptSess1](https://twitter.com/JavaScriptSess1)||
+|DevOps Türkiye|[DevOps Türkiye](http://devopsturkey.org)|[devopstr](https://twitter.com/devopstr)||
