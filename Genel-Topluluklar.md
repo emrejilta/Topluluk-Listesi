@@ -40,3 +40,4 @@ NOT: Siz de topluluğunuzu ekleyebilirsiniz
 |Angular Turkey|[Angular Turkey](http://ngturkey.org)|[ngTurkiye](https://twitter.com/ngTurkiye)||
 |JavaScript Sessions Ankara|[JavaScript Sessions Ankara](https://kommunity.com/javascript-sessions/)|[JavaScriptSess1](https://twitter.com/JavaScriptSess1)||
 |DevOps Türkiye|[DevOps Türkiye](http://devopsturkey.org)|[devopstr](https://twitter.com/devopstr)||
+|FolksDev Yazılım Topluluğu||[folksdevtv](https://twitter.com/folksdevtv)|[folksdev](https://github.com/folksdev)|
